@@ -1,0 +1,6 @@
+pippo
+ pluto 
+qui quo qua
+
+
+ricorda: cd /mnt/c
